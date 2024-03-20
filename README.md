@@ -10,9 +10,9 @@ To run this project ASP.NET 5.0 is must and Visual Studio 2013 is recommended. F
 1. Open new ASP.NET MVC project in Visual Studio
 2. Rename the project name as projectsd
 3. Open MSSQL Server
-4. Download sql file from this [link](https://github.com/Muhaiminul-Kabir/Easy-Rent/blob/master/efdb.sql)
+4. Download sql file from this [link](https://github.com/Shihabul-Shuvo/EasyHome/blob/main/efdb.sql)
 5. Execute the sql file in SQL management studio
-6. Unzip and Include the .mdf and .log file from this [link](https://github.com/Muhaiminul-Kabir/Easy-Rent/blob/master/Desktop.zip) into <i>"C:\Program Files\Microsoft SQL Server\servername\MSSQL\DATA\"
+6. Unzip and Include the .mdf and .log file from this [link](https://github.com/Shihabul-Shuvo/EasyHome/blob/master/Desktop.zip) into <i>"C:\Program Files\Microsoft SQL Server\servername\MSSQL\DATA\"
 7. Add the ADO Entity model to the Models section with the database
 8. Rename entity name from "dbf" to the new entityframework class in every controller class
 9. Start debugging the project from Visual Studio
